@@ -1,1 +1,1 @@
-<h1> Sesac 5조 - Pureut </h1>
+<h1> Pureut - ConvenienceSale</h1>
